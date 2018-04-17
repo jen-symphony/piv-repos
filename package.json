@@ -1,24 +1,24 @@
 {
-/t"name": "piv-repos",
-/t"version": "1.0.0",
-/t"description": "test repo for privitization of repos",
-/t"main": "index.js",
-/t"scripts": {
-/t/t"test": "echo \"Error: no test specified\" && exit 1"
-/t},
-/t"repository": {
-/t/t"type": "git",
-/t/t"url": "git+https://github.com/jen-symphony/piv-repos.git"
-/t},
-/t"dependencies": {
-/t/t"sy-trans": "this is a super super new test string sytrans",
-/t/t"s-build": "https://github.com/symphony-integrations/s-build",
-/t/t"node-symphony": "this is a test string node symphony"
-/t},
-/t"author": "",
-/t"license": "ISC",
-/t"bugs": {
-/t/t"url": "https://github.com/jen-symphony/piv-repos/issues"
-/t},
-/t"homepage": "https://github.com/jen-symphony/piv-repos#readme"
+   "name": "piv-repos",
+   "version": "1.0.0",
+   "description": "test repo for privitization of repos",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jen-symphony/piv-repos.git"
+   },
+   "dependencies": {
+      "sy-trans": "this is a super super new test string sytrans",
+      "s-build": "https://github.com/symphony-integrations/s-build",
+      "node-symphony": "this is a test string node symphony"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/jen-symphony/piv-repos/issues"
+   },
+   "homepage": "https://github.com/jen-symphony/piv-repos#readme"
 }
