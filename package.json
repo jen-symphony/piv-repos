@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/jen-symphony/piv-repos/issues"
   },
-  "homepage": "https://github.com/jen-symphony/piv-repos#readme"
+  "homepage": "https://github.com/jen-symphony/piv-repos#readme",
+  "test": "test"
 }
